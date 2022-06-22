@@ -1,0 +1,29 @@
+{
+    "veiculos": [
+        {
+            "id": 1,
+            "titulo": "VOLKSWAGEN GOL 1.0",
+            "quantidade_autorizada": 30,
+            "preco": 66.000
+        },
+        {
+            "id": 2,
+            "titulo": "VOLKSWAGEN NIVUS 2.0",
+            "quantidade_autorizada": 30,
+            "preco": 110.000
+        },
+        {
+            "id": 3,
+            "titulo": "VOLKSWAGEN T-CROSS",
+            "quantidade_autorizada": 30,
+            "preco": 150.000
+        },
+        {
+            "id": 4,
+            "titulo": "VOLKSWAGEN AMAROK V.6",
+            "quantidade_autorizada": 30,
+            "preco": 250.000
+        }
+        
+    ]
+}

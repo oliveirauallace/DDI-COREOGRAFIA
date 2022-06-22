@@ -1,0 +1,40 @@
+{
+    "veiculos": [
+        {
+            "id": 1,
+            "titulo": "VOLKSWAGEN GOL 1.0",
+            "modelo": "COMFORTLINE",
+            "ano": "2022",
+            "quantidade_autorizada": 30
+            
+        },
+        {
+            "id": 2,
+            "titulo": "VOLKSWAGEN NIVUS 2.0",
+            "modelo": "HIGHLINE",
+            "ano": "2022-2023",
+            "quantidade_autorizada": 30
+            
+
+        },
+        {
+            "id": 3,
+            "titulo": "VOLKSWAGEN T-CROSS",
+            "modelo": "COMFORTLINE",
+            "ano": "2022-2023",
+            "quantidade_autorizada": 30
+            
+
+        },
+        {
+            "id": 4,
+            "titulo": "VOLKSWAGEN AMAROK V.6",
+            "modelo": "HIGHLINE",
+            "ano": "2023",
+            "quantidade_autorizada": 30
+            
+
+        }
+        
+    ]
+}
